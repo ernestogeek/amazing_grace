@@ -1,6 +1,6 @@
-#Amazing
+##Amazing
 
-Create modern web app clean architecture with NestJS + MongoDB & ViteJS + React
+Create modern web app clean architecture with ReactJS Typescipt + MongoDB & ViteJS + React
 
 
 
