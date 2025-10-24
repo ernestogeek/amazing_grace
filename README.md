@@ -22,12 +22,6 @@ Create modern web app clean architecture with ReactJS Typescipt + MongoDB & Vite
 - **Verification** account + reset password with jwt token
 - **Upload** image with NestJS/multer & **Cloudinary**
 - **Full-text search** books
-- Query/Get books by genre with **pagination**
-- Manage state with **Redux** + Thunk (**@redux/toolkit** way)
-- Improve **SEO** with react-helmet
-- **Lazyload** page & components
-- Lint & format with **Eslint + Prettier**
-- Documentation with Swagger/Open API
 
 - Improvements:
   - Custom logger with winston
